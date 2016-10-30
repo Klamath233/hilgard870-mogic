@@ -1,0 +1,6 @@
+{
+    "parent": "hilgard870:item/magic_wand",
+    "textures": {
+        "layer0": "hilgard870:items/magic_wand_charged_0"
+    }
+}
